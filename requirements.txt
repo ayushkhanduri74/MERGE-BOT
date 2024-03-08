@@ -9,3 +9,7 @@ pyromod
 python-dotenv
 requests
 TgCrypto
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+render
